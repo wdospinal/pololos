@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "charset":"UTF-8",
+        "module": "CommonJS",
+        "target": "ES3",
+        "outDir": "./build",
+        "moduleResolution": "Node"
+    }
+}
